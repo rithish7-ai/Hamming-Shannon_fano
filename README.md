@@ -48,14 +48,19 @@ print(f"Efficiency is : {eff}")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
-# Calculation:
 
+
+
+# Calculation:
 ![WhatsApp Image 2026-02-13 at 6 34 41 PM](https://github.com/user-attachments/assets/9170bb8b-7500-4a14-b07d-978a9bd127cc)
 
 
 # Output
 
+
 <img width="567" height="397" alt="Screenshot 2026-02-13 182833" src="https://github.com/user-attachments/assets/2df2fd96-31df-4df6-aa90-5433ff888235" />
+
+
 
 
 # Results:
