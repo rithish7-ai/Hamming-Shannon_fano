@@ -1,3 +1,4 @@
+# EXP:02 Huffman and Shannon-Fano coding
 # NAME:RITHISH S
 # REG NO:212224060216 
 # Huffman-Shannon_fano
